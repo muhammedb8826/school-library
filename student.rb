@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require './person'
+require_relative('./person')
 
 class Student < Person
-  def initialize(_classroom)
-    super(name, age)
-    @classroom = nil
+  def initialize(age, classroom, name = 'Unknown', parent_permission: true)
+    super(name, age, parent_permission)
+    @classroom = classroom
   end
 
   def play_hooky
