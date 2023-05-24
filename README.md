@@ -63,7 +63,7 @@ In order to run this project you need to:
 Clone the repo into your local machine:
 
 ```bash
-git clone https://github.com/BahirHakimy/decode-morse-code.git
+git clone https://github.com/muhammedb8826/school-library.git
 ```
 
 ### Usage
@@ -71,7 +71,7 @@ git clone https://github.com/BahirHakimy/decode-morse-code.git
 To run the files execute this command
 
 ```bash
-ruby main.rb
+ruby person.rb
 ```
 
 <p align="right"><a href="#readme-top">👆</a></p>
@@ -79,12 +79,6 @@ ruby main.rb
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-👤 **Bahir Hakimi**
-
-- [<img src="https://i.stack.imgur.com/gVE0j.png" width='20'/> LinkedIn](https://www.linkedin.com/in/bahir-hakimy)
-- [<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width='20'/> Email](mailto:bahirhakimy2015@gmail.com)
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width='20'/> Twitter](https://twitter.com/bahir_hakimy)
 
 👤 **Muhammed B**
 
