@@ -1,11 +1,14 @@
-require_relative 'person.rb'
+# frozen_string_literal: true
+
+require './person'
+
 class Teacher < Person
-  def initialize(specialization)
+  def initialize(_specialization)
     super(name, age)
     @specialization = nil
   end
 
   def can_use_services?
-    return true
+    true
   end
 end
