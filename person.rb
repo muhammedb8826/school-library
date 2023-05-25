@@ -1,10 +1,13 @@
-require_relative ('./nameable.rb')
+# frozen_string_literal: true
+
+require_relative('./nameable')
 
 class Person < Nameable
   attr_reader :id
   attr_accessor :name, :age, :nameable
 
   def initialize(age, nameable, name = 'Unknown', parent_permission: true)
+    super()
     @id = Random.rand(1..1000)
     @name = name
     @age = age
