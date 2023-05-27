@@ -17,7 +17,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -83,7 +82,7 @@ ruby person.rb
 👤 **Muhammed B**
 
 - GitHub: [@githubhandle](https://github.com/muhammedb8826)
-- Twitter: [@twitterhandle](https://twitter.com/muhammedb6626)
+- Twitter: [@twitterhandle](https://twitter.com/muhammedb8826)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammedb8826/)
 
 <p align="right"><a href="#readme-top">👆</a></p>
