@@ -21,9 +21,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decode Morse Code <a name="about-project"></a>
+# 📖 School Library <a name="about-project"></a>
 
-**Decode Morse Code** Ruby exercise, contains some functions to decode morse code to readable string
+**school-library** Ruby project, contains some functions to register users and display the registered users
 
 ## 🛠 Built With <a name="built-with"></a>
 
