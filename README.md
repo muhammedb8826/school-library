@@ -70,7 +70,7 @@ git clone https://github.com/muhammedb8826/school-library.git
 To run the files execute this command
 
 ```bash
-ruby person.rb
+ruby main.rb
 ```
 
 <p align="right"><a href="#readme-top">👆</a></p>
