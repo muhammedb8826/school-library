@@ -1,3 +1,5 @@
+
+require 'pry'
 require_relative('./book')
 require_relative('./student')
 require_relative('./teacher')
@@ -23,7 +25,9 @@ class App
   end
 
   def create_student(age, name, parent_permission)
+    name = 'Unknown'
     @people << Student.new(age, name, parent_permission: parent_permission)
+    binding.pry
   end
 
   def create_teacher(age, name, specialization)
